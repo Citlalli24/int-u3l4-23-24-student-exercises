@@ -11,8 +11,8 @@ let img = document.querySelector("img");
 // - Make it so that the header says your name when the button is clicked.
 // - Change the src of the image to something random.
 button.addEventListener("click", function() {
-    header.innerHTML = "🤯 wow cool neeto";
-    img.src = "https://media4.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif";
+    header.innerHTML = "Kyara when she gets her geometry test score back";
+    img.src = "https://www.icegif.com/wp-content/uploads/2023/05/icegif-579.gif";
 });
 
 
